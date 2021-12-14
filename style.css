@@ -1,0 +1,52 @@
+.nav-link {
+    color: black !important;
+  }
+  /* .bg-danger {
+    background-color: pink !important;
+  } */
+  .navC {
+    background-color: skyblue !important;
+  }
+  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+  
+  .carouselExampleIndicators{width: 100%!important;
+    height: 700PX;}
+
+
+    #logo {
+        color: #2da345;
+        font-size: xx-large;
+        font-weight: 500;
+      }
+      .d-block {
+        height: 900px;
+      }
+      .shopping-bag-total {
+        padding-left: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: large;
+        font-weight: 500;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+      }
+      .product-container {
+        margin: 40px 100px;
+        background: white;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+      }
+      .row {
+        margin: 0;
+        padding: 15px 0;
+        border-top: solid lightgrey;
+        border-top-width: thin;
+      }
+      .delete-like {
+        text-align: center;
+      }
+      .image-produit {
+        width: 287px;
+        height: 390px;
+      }
+     
